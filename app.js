@@ -1,4 +1,4 @@
-/*Retroalimentación:
+/*Retroalimentación para Paulina Mendoza:
 La desarrolladora se mostro segura de si misma, inicio por aclarar detalles sobre el problema a resolver y seguido de esto se dedicó a generar el código basándose en la lógica que había construido con su proceso metódico. 
 */
 
